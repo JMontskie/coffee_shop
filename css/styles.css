@@ -17,15 +17,17 @@ body {
 }
 .c_flavor {
     text-align: left;
-    width: 70%;
+    width: 75%;
+    background-color: red;
 }
 .c_price {
     text-align: right;
-    width: 30%;
+    width: 25%;
+    background-color: blue;
 }
 .c_item p{
     /* display: flex; 
     justify-content: space-between; */
     display: inline-block;
-    background-color: red;
+    /* background-color: red; */
 }
