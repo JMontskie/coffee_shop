@@ -14,9 +14,14 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-.c_menu {
+.c_flavor {
     text-align: left;
 }
 .c_price {
     text-align: right;
+}
+.c_item {
+    /* display: flex; 
+    justify-content: space-between; */
+    display: inline-block;
 }
