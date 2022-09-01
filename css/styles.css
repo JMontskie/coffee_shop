@@ -1,8 +1,16 @@
 /* header elements */
 h1,h2,p {
     text-align: center;
+    color: #ffff;
 }
 body {
-    background-color:  burlywood;
-    width: 300px;
+    background-image: url("../img/background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.coffeeMenu {
+  width: 80%;
+  background-color: #1C3635;
+  margin-left: auto;
+  margin-right: auto;
 }
