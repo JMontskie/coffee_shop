@@ -9,6 +9,7 @@ body {
     background-size: cover;
 }
 .coffeeMenu {
+    max-width: 500px;
   width: 80%;
   background-color: #1C3635;
   margin-left: auto;
@@ -16,11 +17,11 @@ body {
 }
 .c_flavor {
     text-align: left;
-    width: 49%;
+    width: 70%;
 }
 .c_price {
     text-align: right;
-    width: 49%;
+    width: 30%;
 }
 .c_item p{
     /* display: flex; 
