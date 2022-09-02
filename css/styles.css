@@ -11,6 +11,10 @@ body {
     background-size: cover;
     font-family: 'Roboto', sans-serif;
 }
+.established {
+    font-style: italic;
+}
+
 .coffeeMenu {
     max-width: 500px;
     width: 80%;
