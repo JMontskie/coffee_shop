@@ -34,6 +34,7 @@ body {
     justify-content: space-between; */
     /* background-color: red; */
     display: inline-block;
+    font-weight: 400;
 }
 
 .col_item p {
