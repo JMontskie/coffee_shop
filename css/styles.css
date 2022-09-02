@@ -3,7 +3,13 @@ h1,h2,p {
     text-align: center;
     color: #ffff;
 }
+h1 {
+    font-size: 40px;
+}
 
+h2 {
+    font-size: 35px;
+}
 
 body {
     background-image: url("../img/background2.jpg");
