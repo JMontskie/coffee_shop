@@ -3,6 +3,12 @@ h1,h2,p {
     text-align: center;
     color: #ffff;
 }
+p{
+    
+    background-color: green;
+}
+
+
 body {
     background-image: url("../img/background2.jpg");
     background-repeat: no-repeat;
