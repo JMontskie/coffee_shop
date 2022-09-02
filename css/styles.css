@@ -3,10 +3,6 @@ h1,h2,p {
     text-align: center;
     color: #ffff;
 }
-p{
-    
-    background-color: green;
-}
 
 
 body {
@@ -21,6 +17,7 @@ body {
   background-color: rgba(28, 54, 53,0.406);
   margin-left: auto;
   margin-right: auto;
+  padding: 20px;
 }
 .c_flavor, .c_collection {
     text-align: left;
@@ -37,4 +34,9 @@ body {
     justify-content: space-between; */
     /* background-color: red; */
     display: inline-block;
+}
+
+.col_item p {
+    display: inline-block;
+    background-color: green;
 }
