@@ -39,12 +39,12 @@ body {
 .c_flavor, .c_collection {
     text-align: left;
     width: 75%;
-    background-color: red;
+    /* background-color: red; */
 }
 .c_price, .collection_price {
     text-align: right;
     width: 25%;
-    background-color: blue;
+    /* background-color: blue; */
 }
 .c_item p{
     /* display: flex; 
